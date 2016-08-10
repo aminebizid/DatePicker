@@ -2,8 +2,6 @@ DatePicker
 
 Usage:
 
-ts
-
 ```typescript
 this.date = new Date();
 ```
