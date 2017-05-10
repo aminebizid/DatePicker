@@ -18,3 +18,5 @@ With Form
   <error [hidden]="myForm.controls['date'].valid || myForm.controls['date'].pristine" align="start">Start Date required</error>
 </md-datetimepicker>
 ```
+
+Thanks
